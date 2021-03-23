@@ -20,7 +20,7 @@ spec:
       name: Age
       type: date
   group: kubeflow.org
-  version: v1
+  version: v1alpha3
   scope: Namespaced
   subresources:
     status: {}
